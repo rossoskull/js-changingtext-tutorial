@@ -1,5 +1,5 @@
-var text = ['Apple', 'Mango', 'Orange', 'Watermelon']
-var currentIndex = 1
+let text = ['Apple', 'Mango', 'Orange', 'Watermelon']
+let currentIndex = 1
 
 window.onload = function () {
     let a = document.getElementById('heading')
